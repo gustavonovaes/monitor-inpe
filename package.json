@@ -1,0 +1,29 @@
+{
+  "name": "monitor-inpe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavonovaes/monitor-inpe"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://github.com/gustavonovaes/monitor-inpe#readme",
+  "license": "ISC",
+  "dependencies": {
+    "@iconify/icons-mdi": "^1.0.153",
+    "@iconify/react": "^1.1.3",
+    "date-fns": "^2.16.1",
+    "google-map-react": "^2.1.9",
+    "next": "^10.0.2",
+    "next-images": "^1.6.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
